@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet Project2D.CSharp.Plugins", "Pet Project2D.CSharp.Plugins.csproj", "{01B683C5-7616-D22F-1C31-1B2BA34C59C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet Project2D.CSharp", "Pet Project2D.CSharp.csproj", "{2F5F8A01-CBA8-C251-20F2-F1DAC68F9C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet Project2D.CSharp.Editor", "Pet Project2D.CSharp.Editor.csproj", "{AEF055F5-E338-910D-ACAE-2F2807C067FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B683C5-7616-D22F-1C31-1B2BA34C59C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B683C5-7616-D22F-1C31-1B2BA34C59C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B683C5-7616-D22F-1C31-1B2BA34C59C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B683C5-7616-D22F-1C31-1B2BA34C59C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5F8A01-CBA8-C251-20F2-F1DAC68F9C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5F8A01-CBA8-C251-20F2-F1DAC68F9C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5F8A01-CBA8-C251-20F2-F1DAC68F9C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5F8A01-CBA8-C251-20F2-F1DAC68F9C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF055F5-E338-910D-ACAE-2F2807C067FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF055F5-E338-910D-ACAE-2F2807C067FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF055F5-E338-910D-ACAE-2F2807C067FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF055F5-E338-910D-ACAE-2F2807C067FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
